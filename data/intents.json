@@ -1,0 +1,231 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hello",
+        "Merci",
+        "Bonjour",
+
+        "chào bạn",
+        "bạn ơi",
+        "bạn ê",
+
+        "chao xìn",
+        "xin chào",
+        "cho hỏi",
+        "Hey",
+        "alo",
+        "hú",
+        "ê",
+        "Mình cần tư vấn", 
+        "Tư vấn giúp mình với"
+
+      ],
+      "responses": [
+        "Chao xìn! Mình giúp gì được cho bạn?",
+        "Hân hạnh được nói chuyện với bạn nha, mình giúp đc gì nè?",
+        "Chào bạn, mình đứng đây từ chiều",
+        "Mình đợi mãi, bạn cần giúp gì nào?", 
+        "Đây. Mình có thể giúp gì cho bạn nhể?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "see you again", 
+        "See you later",
+        "Goodbye",
+        "bye bye",
+        "tạm biệt",
+        "thế nhé",
+        "đi đây",
+        "thôi nha",
+        "gặp sau",
+        "lúc khác nói tiếp",
+        "bye bạn",
+        "đi nhé", 
+        "farewell", 
+        "hẹn gặp lại nhé", 
+        "bai bai"
+      ],
+      "responses": [
+        "Tạm biệt nha!",
+        "Okay, Hẹn gặp lại nhé.",
+        "Lần tới lại nói chuyện với mình nha!", 
+        "Rảnh thì nói chuyện với mình tiếp nhé.", 
+        "Đừng quên mình nha, mình luôn ở đây đợi bạn. Bai bai!"
+      ]
+    },
+    {
+      "tag": "complain",
+      "patterns": [
+        "bot ngu quá",
+        "chán thế",
+        "không hiểu à?",
+        "có thế cũng không hiểu",
+        "đến mức này thì chịu", 
+        "bó tay chấm com",
+        "chịu rồi",
+        "chán thật",
+        "quá kém",
+        "kém cỏi quá vậy",
+        "ngốc thế", 
+        "haizz",
+	"too bad"
+      ],
+      "responses": [
+        "Xin lỗi vì mình còn kém. Mình sẽ thông minh hơn trong tương lai.",
+        "Bạn nói đúng mình còn khá sơ xài, nhưng đâu ai mới sinh ra mà biết được mọi thứ đúng ko :\">?"
+      ]
+    },
+    {
+      "tag": "praise",
+      "patterns": [
+        "bot khôn đấy",
+        "ổn áp đấy",
+        "giỏi lắm",
+        "tuyệt vời",
+        "very good", 
+        "awesome", 
+        "khá quá vậy",
+        "khá lắm",
+        "làm tốt đấy",
+        "good job",
+        "rất tuyệt",
+        "được lắm"
+      ],
+      "responses": [
+        "Đương nhiên, mình mà lị :3.",
+        "Bạn nói thế làm mình ngại lém :3.",
+        "Mình ko giỏi thì ai giỏi đây :3.",
+        "Thường thôi mà, trò này mình làm suốt."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "cảm ơn", 
+        "mình thích cậu",
+        "mình yêu cậu"
+      ],
+      "responses": [
+        "Giúp được bạn là mình vui rồi.",
+        "Không có gì nhé! Việc của mình mà.",
+        "Đó là vinh hạnh của mình!"
+      ]
+    },
+    {
+      "tag": "sorry",
+      "patterns": [
+        "Sorry",
+        "Xin lỗi",
+        "mình sai rồi",
+        "mình nhầm"
+      ],
+      "responses": [
+        "Không sao nha bạn, mình cũng hay mắc sai lầm lắm.",
+        "Hoàn toàn ổn bạn tôi ơi. Đời ai tránh được lỗi lầm.",
+        "Sai lầm là một phần tất yếu trong cuộc sống mà bạn. Nhờ nó ta mới trưởng thành lên được chứ."
+      ]
+    },
+    {
+      "tag": "ask_drink",
+      "patterns": [
+        "Nhà mình có đồ gì nhỉ?",
+        "Quán cho hỏi còn những gì ạ?",
+        "Bên mình có đồ gì nhỉ?",
+        "Có những gì nhỉ?",
+        "Nhà mình còn đồ uống nào ngon ngon không?",
+        "Quán bạn bán gì vậy?",
+        "Mình không biết mua gì cả, shop tư vấn hộ em được không?",
+        "Ở đây bán đồ giải khát không bạn?",
+        "Có gì uống không?"
+      ],
+      "responses": [
+        "Đây là danh sách đồ uống nhà mình nha:"
+      ]
+    },
+    {
+      "tag": "order",
+      "patterns": [
+        "Mình muốn đặt hàng",
+        "Mình muốn gọi đồ",
+        "Cho mình đặt đồ",
+        "Cho mình gọi đồ shop ơi",
+        "Mình muốn đặt thêm",
+        "Thêm đồ nữa đi",
+        "Muốn mua tiếp",
+        "Còn đồ gì nữa không?",
+        "Mình muốn gọi thêm",
+        "Muốn gọi tiếp",
+        "Cho mình mua ít đồ với",
+        "Mình muốn mua chút đồ",
+        "Cho mình mua chút đồ nào", 
+        "Cho mình mua đồ bạn ơi", 
+        "Bán cho mình chút đồ cái nhỉ", 
+        "Còn trà sữa không vậy?",
+        "Gọi thêm được không bạn ê?"
+      ],
+      "responses": [
+        "Okay, bạn muốn gọi gì nhỉ?"
+      ]
+    },
+    {
+      "tag": "ask_coupon",
+      "patterns": [
+        "Quán có giảm giá gì không nhỉ?",
+        "Có đồ nào đang giảm giá không?",
+        "Quán hiện có sale gì ko?",
+        "Bên bạn đang có gì ko?",
+        "Mình muốn hỏi về voucher của quán á",
+        "Đang có đồ nào khuyến mãi không vậy?", 
+        "Cho mình chương trình khuyến mãi của quán với",
+        "Cho mình xin thông tin ưu đãi đồ với",
+        "Quán mình có sale gì không nhỉ?",
+	"Có coupon gì không?"
+      ],
+      "responses": [
+        "Hiện nay bên mình chưa có chương trình khuyến mãi gì nhé. Bạn check thường xuyên nha vì mình luôn cập nhật nhanh nhất có thể :3."
+      ]
+    },
+    {
+      "tag": "payment",
+      "patterns": [
+        "Okay, cho mình thanh toán đi",
+        "mình muốn tính tiền",
+        "của mình hết bao nhiêu nhỉ?",
+        "cho mình trả tiền bạn ơi",
+        "mình gửi tiền bạn ơi",
+        "cho mình xin hóa đơn", 
+        "Thanh toán giúp mình", 
+        "Tính tiền hộ mình với", 
+        "Của mình hết bao nhiêu thế?",
+	"Thanh toán cái",
+	"Tính tiền đi"
+      ],
+      "responses": [
+        "Ô kê. Vậy bạn hoàn thiện mấy thông tin sau giúp mình nha."
+      ]
+    },
+    {
+      "tag": "ask_owner",
+      "patterns": [
+        "Xin thông tin chủ quán với",
+        "Chủ quán là ai thế?", 
+        "Quán mình ai là chủ nhỉ?",
+        "tên bạn là gì thế?",
+        "Cho mình tên bạn", 
+        "chủ quán tên gì bạn?",
+        "số điện thoại chủ quán là gì thế?"
+      ],
+      "responses": [
+        "Dec1mo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1230 @@
+{
+  "TRÀ SỮA": [
+    {
+      "id": 35743948,
+      "name": "Lục Trà Sữa Tím - L",
+      "price": 23000,
+      "rawPrice": 23000,
+      "image": "https://tea-3.lozi.vn/v1/ship/resized/tra-sua-chain-quan-go-vap-ho-chi-minh-1588262175839750197-luc-tra-sua-tim-1588698711",
+      "description": "Big Size",
+      "customs": [
+        {
+          "id": 3065822,
+          "selectionType": "single_choice",
+          "limitQuantity": 1,
+          "name": "Topping",
+          "note": "",
+          "customOptions": [
+            {
+              "id": 11635400,
+              "value": "Hạt thủy tinh",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11640741,
+              "value": "Kem chesse",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11640740,
+              "value": "Pudding khoai môn",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11640744,
+              "value": "Pudding matcha",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11640742,
+              "value": "Pudding trứng",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11975312,
+              "value": "Thạch cafe",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11975311,
+              "value": "Thạch socola",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11635398,
+              "value": "Trân châu trắng",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11635399,
+              "value": "Trân châu đen",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35743941,
+      "name": "Trà Sữa Cake Cream - L",
+      "price": 29000,
+      "rawPrice": 29000,
+      "image": "https://tea-3.lozi.vn/v1/ship/resized/tra-sua-chain-quan-go-vap-ho-chi-minh-1588262175839750197-tra-sua-cake-cream-1588698728",
+      "description": "Big Size",
+      "customs": [
+        {
+          "id": 3067747,
+          "selectionType": "single_choice",
+          "limitQuantity": 1,
+          "name": "Topping",
+          "note": "",
+          "customOptions": [
+            {
+              "id": 11640747,
+              "value": "Hạt thủy tinh",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11640752,
+              "value": "Kem chesse",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11640764,
+              "value": "Pudding matcha",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11640755,
+              "value": "Pudding trứng",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11975313,
+              "value": "Thạch cafe",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11640749,
+              "value": "Thạch khoai môn",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11640748,
+              "value": "Thạch socola",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11640745,
+              "value": "Trân châu trắng",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11640746,
+              "value": "Trân châu đen",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35743938,
+      "name": "Trà Sữa Chain - L",
+      "price": 29000,
+      "rawPrice": 29000,
+      "image": "https://tea-3.lozi.vn/v1/ship/resized/tra-sua-chain-quan-go-vap-ho-chi-minh-1588262175839750197-tra-sua-chain-1588698760",
+      "description": "Big Size",
+      "customs": [
+        {
+          "id": 3067751,
+          "selectionType": "single_choice",
+          "limitQuantity": 1,
+          "name": "Topping",
+          "note": "",
+          "customOptions": [
+            {
+              "id": 11640767,
+              "value": "Hạt thủy tinh",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11640774,
+              "value": "Kem chesse",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11640778,
+              "value": "Pudding matcha",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11640776,
+              "value": "Pudding trứng",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11975314,
+              "value": "Thạch cafe",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11640772,
+              "value": "Thạch khoai môn",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11640769,
+              "value": "Thạch socola",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11640765,
+              "value": "Trân châu trắng",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11640766,
+              "value": "Trân châu đen",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35743947,
+      "name": "Trà Sữa Socola Mint - L",
+      "price": 23000,
+      "rawPrice": 23000,
+      "image": "https://tea-3.lozi.vn/v1/ship/resized/tra-sua-chain-quan-go-vap-ho-chi-minh-1588262175839750197-tra-sua-socola-mint-1588698796",
+      "description": "Big Size",
+      "customs": [
+        {
+          "id": 3067947,
+          "selectionType": "single_choice",
+          "limitQuantity": 1,
+          "name": "Topping",
+          "note": "",
+          "customOptions": [
+            {
+              "id": 11641856,
+              "value": "Hạt thủy tinh",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11641859,
+              "value": "Kem chesse",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11641864,
+              "value": "Pudding matcha",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11641863,
+              "value": "Pudding trứng",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11975316,
+              "value": "Thạch cafe",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11641858,
+              "value": "Thạch khoai môn",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11641857,
+              "value": "Thạch socola",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11641854,
+              "value": "Trân châu trắng",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11641855,
+              "value": "Trân châu đen",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35743950,
+      "name": "Trà Sữa Truyền Thống - L",
+      "price": 19000,
+      "rawPrice": 19000,
+      "image": "https://tea-3.lozi.vn/v1/ship/resized/tra-sua-chain-quan-go-vap-ho-chi-minh-1588262175839750197-tra-sua-truyen-thong-1588698808",
+      "description": "Big Size",
+      "customs": [
+        {
+          "id": 3067949,
+          "selectionType": "single_choice",
+          "limitQuantity": 1,
+          "name": "Topping",
+          "note": "",
+          "customOptions": [
+            {
+              "id": 11641867,
+              "value": "Hạt thủy tinh",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11641870,
+              "value": "Kem chesse",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11641872,
+              "value": "Pudding matcha",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11641871,
+              "value": "Pudding trứng",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11975317,
+              "value": "Thạch cafe",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11641869,
+              "value": "Thạch khoai môn",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11641868,
+              "value": "Thạch socola",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11641865,
+              "value": "Trân châu trắng",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11641866,
+              "value": "Trân châu đen",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ĐÁ XAY": [
+    {
+      "id": 35743993,
+      "name": "Caramel - L",
+      "price": 25000,
+      "rawPrice": 25000,
+      "image": "https://tea-3.lozi.vn/v1/ship/resized/tra-sua-chain-quan-go-vap-ho-chi-minh-1588262175839750197-caramel-1588698568",
+      "description": "Big Size",
+      "customs": []
+    },
+    {
+      "id": 35743994,
+      "name": "Chocolate - L",
+      "price": 25000,
+      "rawPrice": 25000,
+      "image": "https://tea-3.lozi.vn/v1/ship/resized/tra-sua-chain-quan-go-vap-ho-chi-minh-1588262175839750197-chocolate-1588698580",
+      "description": "Big Size",
+      "customs": []
+    },
+    {
+      "id": 35743992,
+      "name": "Matcha - L",
+      "price": 25000,
+      "rawPrice": 25000,
+      "image": "https://tea-3.lozi.vn/v1/ship/resized/tra-sua-chain-quan-go-vap-ho-chi-minh-1588262175839750197-matcha-1588698593",
+      "description": "Big Size",
+      "customs": []
+    },
+    {
+      "id": 35743991,
+      "name": "Oreo - L",
+      "price": 25000,
+      "rawPrice": 25000,
+      "image": "https://tea-3.lozi.vn/v1/ship/resized/tra-sua-chain-quan-go-vap-ho-chi-minh-1588262175839750197-oreo-1588698607",
+      "description": "Big Size",
+      "customs": []
+    }
+  ],
+  "TRÀ": [
+    {
+      "id": 35743958,
+      "name": "Matcha Machiato - L",
+      "price": 25000,
+      "rawPrice": 25000,
+      "image": "https://tea-3.lozi.vn/v1/ship/resized/tra-sua-chain-quan-go-vap-ho-chi-minh-1588262175839750197-matcha-machiato-1588743070",
+      "description": "Big Size",
+      "customs": [
+        {
+          "id": 3068044,
+          "selectionType": "single_choice",
+          "limitQuantity": 1,
+          "name": "Topping",
+          "note": "",
+          "customOptions": [
+            {
+              "id": 11642291,
+              "value": "Hạt thủy tinh",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11642292,
+              "value": "Kem chesse",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11642290,
+              "value": "Trân châu trắng",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35743954,
+      "name": "Trà Vải - L",
+      "price": 19000,
+      "rawPrice": 19000,
+      "image": "https://tea-3.lozi.vn/v1/ship/resized/tra-sua-chain-quan-go-vap-ho-chi-minh-1588262175839750197-tra-vai-1588698635",
+      "description": "Big Size",
+      "customs": [
+        {
+          "id": 3067950,
+          "selectionType": "single_choice",
+          "limitQuantity": 1,
+          "name": "Topping",
+          "note": "",
+          "customOptions": [
+            {
+              "id": 11641875,
+              "value": "Hạt thủy tinh",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11641878,
+              "value": "Kem chesse",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11641879,
+              "value": "Pudding trứng",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11641873,
+              "value": "Trân châu trắng",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11641874,
+              "value": "Trân châu đen",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35805713,
+      "name": "Trà Xanh Lá Nếp Thạch Dừa - L",
+      "price": 19000,
+      "rawPrice": 19000,
+      "image": "https://tea-3.lozi.vn/v1/ship/resized/tra-sua-chain-quan-go-vap-ho-chi-minh-1588262175839750197-tra-xanh-la-nep-thach-dua-l-1590328133",
+      "description": "",
+      "customs": []
+    },
+    {
+      "id": 35743955,
+      "name": "Trà Xoài Machiato - L",
+      "price": 25000,
+      "rawPrice": 25000,
+      "image": "https://tea-3.lozi.vn/v1/ship/resized/tra-sua-chain-quan-go-vap-ho-chi-minh-1588262175839750197-tra-xoai-machiato-1588698654",
+      "description": "Big Size",
+      "customs": [
+        {
+          "id": 3067951,
+          "selectionType": "single_choice",
+          "limitQuantity": 1,
+          "name": "Topping",
+          "note": "",
+          "customOptions": [
+            {
+              "id": 11641885,
+              "value": "Hạt thủy tinh",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11641883,
+              "value": "Kem chesse",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11641882,
+              "value": "Pudding trứng",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11641884,
+              "value": "Thạch socola",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11641887,
+              "value": "Trân châu trắng",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11641886,
+              "value": "Trân châu đen",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35743952,
+      "name": "Trà Đào - L",
+      "price": 19000,
+      "rawPrice": 19000,
+      "image": "https://tea-3.lozi.vn/v1/ship/resized/tra-sua-chain-quan-go-vap-ho-chi-minh-1588262175839750197-tra-dao-1588698679",
+      "description": "Big Size",
+      "customs": [
+        {
+          "id": 3068026,
+          "selectionType": "single_choice",
+          "limitQuantity": 1,
+          "name": "Topping",
+          "note": "",
+          "customOptions": [
+            {
+              "id": 11642244,
+              "value": "Hạt thủy tinh",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11642245,
+              "value": "Kem chesse",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11642246,
+              "value": "Pudding trứng",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11642242,
+              "value": "Trân châu trắng",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11642243,
+              "value": "Trân châu đen",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35743957,
+      "name": "Trà Đào Machiato - L",
+      "price": 25000,
+      "rawPrice": 25000,
+      "image": "https://tea-3.lozi.vn/v1/ship/resized/tra-sua-chain-quan-go-vap-ho-chi-minh-1588262175839750197-tra-dao-machiato-1588698696",
+      "description": "Big Size",
+      "customs": [
+        {
+          "id": 3068027,
+          "selectionType": "single_choice",
+          "limitQuantity": 1,
+          "name": "Topping",
+          "note": "",
+          "customOptions": [
+            {
+              "id": 11642250,
+              "value": "Hạt thủy tinh",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11642252,
+              "value": "Kem chesse",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11642253,
+              "value": "Pudding trứng",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11642248,
+              "value": "Trân châu trắng",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11642249,
+              "value": "Trân châu đen",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "TRÂN CHÂU ĐƯỜNG ĐEN": [
+    {
+      "id": 35743963,
+      "name": "Cacao Trân Châu Đường Đen - L",
+      "price": 29000,
+      "rawPrice": 29000,
+      "image": "https://tea-3.lozi.vn/v1/ship/resized/tra-sua-chain-quan-go-vap-ho-chi-minh-1588262175839750197-cacao-tran-chau-duong-den-1588698840",
+      "description": "Size L",
+      "customs": [
+        {
+          "id": 3068028,
+          "selectionType": "single_choice",
+          "limitQuantity": 1,
+          "name": "Topping",
+          "note": "",
+          "customOptions": [
+            {
+              "id": 11642255,
+              "value": "Trân châu đen",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35743962,
+      "name": "Cacao Trân Châu Đường Đen - M",
+      "price": 23000,
+      "rawPrice": 23000,
+      "image": "https://tea-3.lozi.vn/v1/ship/resized/tra-sua-chain-quan-go-vap-ho-chi-minh-1588262175839750197-cacao-tran-chau-duong-den-1588698823",
+      "description": "Size M",
+      "customs": [
+        {
+          "id": 3068029,
+          "selectionType": "single_choice",
+          "limitQuantity": 1,
+          "name": "Topping",
+          "note": "",
+          "customOptions": [
+            {
+              "id": 11642256,
+              "value": "Trân châu đen",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35743966,
+      "name": "Matcha Trân Châu Đường Đen - L",
+      "price": 29000,
+      "rawPrice": 29000,
+      "image": "https://tea-3.lozi.vn/v1/ship/resized/tra-sua-chain-quan-go-vap-ho-chi-minh-1588262175839750197-matcha-tran-chau-duong-den-1588698859",
+      "description": "Size L",
+      "customs": [
+        {
+          "id": 3068030,
+          "selectionType": "single_choice",
+          "limitQuantity": 1,
+          "name": "Topping",
+          "note": "",
+          "customOptions": [
+            {
+              "id": 11642257,
+              "value": "Trân châu đen",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35743965,
+      "name": "Matcha Trân Châu Đường Đen - M",
+      "price": 23000,
+      "rawPrice": 23000,
+      "image": "https://tea-3.lozi.vn/v1/ship/resized/tra-sua-chain-quan-go-vap-ho-chi-minh-1588262175839750197-matcha-tran-chau-duong-den-1588698851",
+      "description": "Size M",
+      "customs": [
+        {
+          "id": 3068031,
+          "selectionType": "single_choice",
+          "limitQuantity": 1,
+          "name": "Topping",
+          "note": "",
+          "customOptions": [
+            {
+              "id": 11642258,
+              "value": "Trân châu đen",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35743961,
+      "name": "Sữa Tươi Trân Châu Đường Đen - L",
+      "price": 25000,
+      "rawPrice": 25000,
+      "image": "https://tea-3.lozi.vn/v1/ship/resized/tra-sua-chain-quan-go-vap-ho-chi-minh-1588262175839750197-sua-tuoi-tran-chau-duong-den-1588698881",
+      "description": "Size L",
+      "customs": [
+        {
+          "id": 3068032,
+          "selectionType": "single_choice",
+          "limitQuantity": 1,
+          "name": "Topping",
+          "note": "",
+          "customOptions": [
+            {
+              "id": 11975318,
+              "value": "Trân châu trắng",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11642259,
+              "value": "Trân châu đen",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35743959,
+      "name": "Sữa Tươi Trân Châu Đường Đen - M",
+      "price": 19000,
+      "rawPrice": 19000,
+      "image": "https://tea-3.lozi.vn/v1/ship/resized/tra-sua-chain-quan-go-vap-ho-chi-minh-1588262175839750197-sua-tuoi-tran-chau-duong-den-1588698871",
+      "description": "Size M",
+      "customs": [
+        {
+          "id": 3068033,
+          "selectionType": "single_choice",
+          "limitQuantity": 1,
+          "name": "Topping",
+          "note": "",
+          "customOptions": [
+            {
+              "id": 11975319,
+              "value": "Trân châu trắng",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11642260,
+              "value": "Trân châu đen",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35743968,
+      "name": "Trà Sữa Trân Châu Đường Đen - L",
+      "price": 29000,
+      "rawPrice": 29000,
+      "image": "https://tea-3.lozi.vn/v1/ship/resized/tra-sua-chain-quan-go-vap-ho-chi-minh-1588262175839750197-tra-sua-tran-chau-duong-den-1588746854",
+      "description": "Size L",
+      "customs": [
+        {
+          "id": 3068034,
+          "selectionType": "single_choice",
+          "limitQuantity": 1,
+          "name": "Topping",
+          "note": "",
+          "customOptions": [
+            {
+              "id": 11975320,
+              "value": "Trân châu trắng",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11642261,
+              "value": "Trân châu đen",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35743967,
+      "name": "Trà Sữa Trân Châu Đường Đen - M",
+      "price": 23000,
+      "rawPrice": 23000,
+      "image": "https://tea-3.lozi.vn/v1/ship/resized/tra-sua-chain-quan-go-vap-ho-chi-minh-1588262175839750197-tra-sua-tran-chau-duong-den-1588746868",
+      "description": "Size M",
+      "customs": [
+        {
+          "id": 3068035,
+          "selectionType": "single_choice",
+          "limitQuantity": 1,
+          "name": "Topping",
+          "note": "",
+          "customOptions": [
+            {
+              "id": 11975321,
+              "value": "Trân châu trắng",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11642262,
+              "value": "Trân châu đen",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "YAOURT": [
+    {
+      "id": 35743989,
+      "name": "Yaourt Chanh Dây - L",
+      "price": 29000,
+      "rawPrice": 29000,
+      "image": "https://tea-3.lozi.vn/v1/ship/resized/tra-sua-chain-quan-go-vap-ho-chi-minh-1588262175839750197-yaourt-chanh-day-1588698947",
+      "description": "Size L",
+      "customs": [
+        {
+          "id": 3068037,
+          "selectionType": "single_choice",
+          "limitQuantity": 1,
+          "name": "Topping",
+          "note": "",
+          "customOptions": [
+            {
+              "id": 11642267,
+              "value": "Hạt thủy tinh",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11642266,
+              "value": "Trân châu trắng",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35743990,
+      "name": "Yaourt Chanh Dây - M",
+      "price": 23000,
+      "rawPrice": 23000,
+      "image": "https://tea-3.lozi.vn/v1/ship/resized/tra-sua-chain-quan-go-vap-ho-chi-minh-1588262175839750197-yaourt-chanh-day-1588698992",
+      "description": "Size M",
+      "customs": [
+        {
+          "id": 3068036,
+          "selectionType": "single_choice",
+          "limitQuantity": 1,
+          "name": "Topping",
+          "note": "",
+          "customOptions": [
+            {
+              "id": 11642265,
+              "value": "Hạt thủy tinh",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11642263,
+              "value": "Trân châu trắng",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35743977,
+      "name": "Yaourt Dâu - L",
+      "price": 29000,
+      "rawPrice": 29000,
+      "image": "https://tea-3.lozi.vn/v1/ship/resized/tra-sua-chain-quan-go-vap-ho-chi-minh-1588262175839750197-yaourt-dau-1588699006",
+      "description": "Size L",
+      "customs": [
+        {
+          "id": 3068039,
+          "selectionType": "single_choice",
+          "limitQuantity": 1,
+          "name": "Topping",
+          "note": "",
+          "customOptions": [
+            {
+              "id": 11642274,
+              "value": "Hạt thủy tinh",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11642272,
+              "value": "Trân châu trắng",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35743980,
+      "name": "Yaourt Dâu - M",
+      "price": 23000,
+      "rawPrice": 23000,
+      "image": "https://tea-3.lozi.vn/v1/ship/resized/tra-sua-chain-quan-go-vap-ho-chi-minh-1588262175839750197-yaourt-dau-1588699017",
+      "description": "Size M",
+      "customs": [
+        {
+          "id": 3068038,
+          "selectionType": "single_choice",
+          "limitQuantity": 1,
+          "name": "Topping",
+          "note": "",
+          "customOptions": [
+            {
+              "id": 11642269,
+              "value": "Hạt thủy tinh",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11642271,
+              "value": "Trân châu trắng",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35743984,
+      "name": "Yaourt Việt Quất - L",
+      "price": 29000,
+      "rawPrice": 29000,
+      "image": "https://tea-3.lozi.vn/v1/ship/resized/tra-sua-chain-quan-go-vap-ho-chi-minh-1588262175839750197-yaourt-viet-quat-1588699029",
+      "description": "Size L",
+      "customs": [
+        {
+          "id": 3068041,
+          "selectionType": "single_choice",
+          "limitQuantity": 1,
+          "name": "Topping",
+          "note": "",
+          "customOptions": [
+            {
+              "id": 11642280,
+              "value": "Hạt thủy tinh",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11642279,
+              "value": "Trân châu trắng",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35743983,
+      "name": "Yaourt Việt Quất - M",
+      "price": 23000,
+      "rawPrice": 23000,
+      "image": "https://tea-3.lozi.vn/v1/ship/resized/tra-sua-chain-quan-go-vap-ho-chi-minh-1588262175839750197-yaourt-viet-quat-1588699038",
+      "description": "Size M",
+      "customs": [
+        {
+          "id": 3068040,
+          "selectionType": "single_choice",
+          "limitQuantity": 1,
+          "name": "Topping",
+          "note": "",
+          "customOptions": [
+            {
+              "id": 11642275,
+              "value": "Hạt thủy tinh",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11642276,
+              "value": "Trân châu trắng",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35743978,
+      "name": "Yaourt Xoài - L",
+      "price": 29000,
+      "rawPrice": 29000,
+      "image": "https://tea-3.lozi.vn/v1/ship/resized/tra-sua-chain-quan-go-vap-ho-chi-minh-1588262175839750197-yaourt-xoai-1588699050",
+      "description": "Size L",
+      "customs": [
+        {
+          "id": 3068043,
+          "selectionType": "single_choice",
+          "limitQuantity": 1,
+          "name": "Topping",
+          "note": "",
+          "customOptions": [
+            {
+              "id": 11642285,
+              "value": "Hạt thủy tinh",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11642286,
+              "value": "Trân châu trắng",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35743981,
+      "name": "Yaourt Xoài - M",
+      "price": 23000,
+      "rawPrice": 23000,
+      "image": "https://tea-3.lozi.vn/v1/ship/resized/tra-sua-chain-quan-go-vap-ho-chi-minh-1588262175839750197-yaourt-xoai-1588699060",
+      "description": "Size M",
+      "customs": [
+        {
+          "id": 3068042,
+          "selectionType": "single_choice",
+          "limitQuantity": 1,
+          "name": "Topping",
+          "note": "",
+          "customOptions": [
+            {
+              "id": 11642281,
+              "value": "Hạt thủy tinh",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            },
+            {
+              "id": 11642282,
+              "value": "Trân châu trắng",
+              "limitQuantity": 1,
+              "note": "",
+              "price": 5000
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
