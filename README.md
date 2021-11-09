@@ -9,7 +9,7 @@
   [![Status](https://img.shields.io/badge/status-inactive-red)]()
   [![Platform](https://img.shields.io/badge/platform-Messenger-blue.svg)]()
   [![Built-in_NLP](https://img.shields.io/badge/Facebook_Built--in_NLP-ON-brightgreen.svg)]()
-
+</div>
 ## 🧐 Giới thiệu<a name = "about"></a>
 Chatbot đặt đồ ăn
 
