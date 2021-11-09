@@ -1,15 +1,3 @@
-<p align="center">
-  <a href="" rel="noopener">
- <img width=200px height=200px src="https://img.freepik.com/free-vector/robot-icon-bot-sign-design-chatbot-symbol-concept-voice-support-service-bot-online-support-bot-vector-stock-illustration_100456-34.jpg?size=338&ext=jpg" alt="Bot logo"></a>
-</p>
-
-<h3 align="center">Chatbot bán hàng</h3>
-
-<div align="center">
-  [![Status](https://img.shields.io/badge/status-inactive-red)]()
-  [![Platform](https://img.shields.io/badge/platform-Messenger-blue.svg)]()
-  [![Built-in_NLP](https://img.shields.io/badge/Facebook_Built--in_NLP-ON-brightgreen.svg)]()
-</div>
 ## 🧐 Giới thiệu<a name = "about"></a>
 Chatbot đặt đồ ăn
 
